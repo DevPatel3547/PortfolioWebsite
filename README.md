@@ -5,10 +5,8 @@ This repository contains the source code for my personal portfolio. It includes 
 ## Table of Contents
 
 - [Overview](#overview)
-- [Setup and Usage](#setup-and-usage)
-- [Customization](#customization)
 - [Technologies Used](#technologies-used)
-- [License](#license)
+
 
 ## Overview
 

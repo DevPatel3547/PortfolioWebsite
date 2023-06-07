@@ -1,4 +1,4 @@
-# Dev Patel Portfolio
+# Portfolio Website
 
 This repository contains the source code for my personal portfolio. It includes my experience, projects, and contact information.
 
